@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css?family=Bangers|Cinzel:400,700,900|Lato:100,300,400,700,900|Lobster|Lora:400,700|Mansalva|Muli:200,300,400,600,700,800,900|Open+Sans:300,400,600,700,800|Oswald:200,300,400,500,600,700|Roboto:100,300,400,500,700,900&display=swap");
+/* Used Google Fonts */
+font-family: "Roboto", sans-serif;
+font-family: "Mansalva", cursive;
+font-family: "Lato", sans-serif;
+font-family: "Open Sans", sans-serif;
+font-family: "Oswald", sans-serif;
+font-family: "Lora", serif;
+font-family: "Muli", sans-serif;
+font-family: "Lobster", cursive;
+font-family: "Cinzel", serif;
+font-family: "Bangers", cursive;
+/* Used Google Fonts */
+
+.logo-container ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+.logo-container ul li {
+  width: 200px;
+  height: 100px;
+  background: transparent;
+  float: left;
+  padding: 10px;
+  /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);     */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-container ul li a {
+  text-decoration: none !important;
+  display: inline-block;
+}
+.logo-holder {
+  text-align: center;
+}
+
+/* Logo-4 */
+.logo-4 h3 {
+  color: white;
+  font-weight: 300;
+  font-size: 50px;
+  line-height: 0.65;
+  font-family: "Lobster", cursive;
+}
+.logo-4 p {
+  font-size: 14px;
+  margin-left: 50px;
+  color: #545454;
+  font-weight: 400;
+  text-transform: capitalize;
+  font-style: italic;
+  font-family: "Mansalva", cursive;
+}
+
+@media only screen and (max-width: 736px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  .logo-container ul {
+    width: 90%;
+    text-align: center;
+  }
+  .logo-container ul li {
+    width: 290px;
+    float: none !important;
+  }
+  .logo-4 p {
+    margin-top: 2px;
+  }
+}
