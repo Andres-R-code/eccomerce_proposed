@@ -52,7 +52,7 @@ const About = () => {
                             <img 
                             className="rounded-t-lg " 
                             src="https://media.istockphoto.com/photos/abstract-geometric-landscape-picture-id832632796?k=20&m=832632796&s=612x612&w=0&h=x16eCudsPf__avBXdI9qNhnYYi4V8O1o4TcXgSq0yKI=" 
-                            alt="" />
+                            alt="Img 2020" />
                         </Link>
                         <div className="p-6">
                             <h5 className="text-gray-900 text-xl font-semibold mb-2">2020</h5>
@@ -69,8 +69,8 @@ const About = () => {
                         <Link to="/about">
                             <img 
                                 className="rounded-t-lg" 
-                                src="https://media.istockphoto.com/photos/digital-eye-wave-lines-stock-background-stock-video-picture-id1226241649?k=20&m=1226241649&s=612x612&w=0&h=l_kyD4vTzc3ljKwHV3HzaDDt8Hq-kCRCsyNIVVu2eLA=" 
-                                alt="" />
+                                src="https://media.istockphoto.com/photos/bicycle-delivery-guy-picture-id1154103408?k=20&m=1154103408&s=612x612&w=0&h=heQBl3-HvokFEseITGpj3qDma5ecy1EYQNhOc8Jswqo=" 
+                                alt="Img 2021" />
                         </Link>
                         <div className="p-6">
                             <h5 className="text-gray-900 text-xl font-semibold mb-2">2021</h5>
@@ -88,7 +88,7 @@ const About = () => {
                             <img 
                             className="rounded-t-lg" 
                             src="https://media.istockphoto.com/photos/drone-hoovers-over-city-in-high-angle-view-picture-id831440460?k=20&m=831440460&s=612x612&w=0&h=z_mmp6RFnUZkYtK7tZGTrkYPso6-EqJsRZzSZyMocRk=" 
-                            alt="" 
+                            alt="Img 2022" 
                         />
                         </Link>
                         <div className="p-6">
